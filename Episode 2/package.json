@@ -1,10 +1,10 @@
 {
-  "name": "episode-4",
+  "name": "learn_react",
   "version": "1.0.0",
-  "description": "creating food app-1",
+  "description": "learning react",
   "scripts": {
     "start": "parcel index.html",
-    "end": "parcel build index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -12,8 +12,9 @@
     "url": "git+https://github.com/SahilRathore26/learning-react.git"
   },
   "keywords": [
-    "React",
-    "ReactDOM"
+    "namaste",
+    "react",
+    "react"
   ],
   "author": "Sahil Rathore",
   "license": "ISC",
