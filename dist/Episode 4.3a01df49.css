@@ -1,0 +1,59 @@
+.heading {
+  border: 1px solid #000;
+  justify-content: space-between;
+  display: flex;
+}
+
+.logo {
+  width: 80px;
+  margin: 10px;
+}
+
+.nav-bar ul {
+  display: flex;
+}
+
+.nav-bar ul li {
+  margin: 10px;
+  padding: 10px;
+  font-size: 24px;
+  list-style-type: none;
+}
+
+.search {
+  padding: 10px;
+}
+
+.res-card {
+  background-color: #f0f0f0;
+  border-radius: 4px;
+  width: 190px;
+  margin: 5px;
+  padding: 4px;
+}
+
+.res-card:hover {
+  cursor: pointer;
+  border: 1px solid #000;
+  border-radius: 4px;
+}
+
+.res-card-image {
+  object-fit: cover;
+  border-radius: 4px;
+  width: 100%;
+  height: 50%;
+  display: block;
+}
+
+.res-container {
+  flex-wrap: wrap;
+  margin: 6px;
+  display: flex;
+}
+
+.filter-btn {
+  cursor: pointer;
+  margin: 10px;
+}
+/*# sourceMappingURL=Episode 4.3a01df49.css.map */

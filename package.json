@@ -1,0 +1,31 @@
+{
+  "name": "episode-4",
+  "version": "1.0.0",
+  "description": "creating food app-1",
+  "scripts": {
+    "start": "parcel index.html",
+    "end": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahilRathore26/learning-react.git"
+  },
+  "keywords": [
+    "React",
+    "ReactDOM"
+  ],
+  "author": "Sahil Rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SahilRathore26/learning-react/issues"
+  },
+  "homepage": "https://github.com/SahilRathore26/learning-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
